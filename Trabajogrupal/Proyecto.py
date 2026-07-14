@@ -4,7 +4,7 @@ from datetime import datetime
 inventario = {}
 
 print("========================================")
-print(" SISTEMA DE CONTROL DE INVENTARIO")
+print("SISTEMA DE CONTROL DE INVENTARIO DE VIRCATEX")
 print("========================================")
 
 while True:
